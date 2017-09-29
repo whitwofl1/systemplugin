@@ -1,0 +1,9 @@
+[Core]
+Name = System
+Module = System
+
+[Documentation]
+Description = Execute Basic System Commands
+
+[Python]
+Version = 2+
